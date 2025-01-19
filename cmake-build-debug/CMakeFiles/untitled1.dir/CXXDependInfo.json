@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/looey/CLionProjects/untitled1/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/looey/CLionProjects/untitled1",
+	"dir-top-bld" : "C:/Users/looey/CLionProjects/untitled1/cmake-build-debug",
+	"dir-top-src" : "C:/Users/looey/CLionProjects/untitled1",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/looey/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir"
+}

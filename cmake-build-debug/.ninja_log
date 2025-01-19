@@ -1,0 +1,13 @@
+# ninja log v6
+7	3343	7453120466573963	CMakeFiles/untitled1.dir/main.cpp.obj	2b1f5823227d2d96
+18	1248	7453143011643323	untitled1.exe	99e2242e408d18a7
+9	5483	7453001545674607	CMakeFiles/untitled1.dir/mrtdata.cpp.obj	e5edd3f56e849013
+11	1105	7458336899554640	CMakeFiles/untitled1.dir/main.cpp.obj.ddi	761b288309a61ae0
+84	1419	7458336900276764	CMakeFiles/untitled1.dir/mrtdata.cpp.obj.ddi	420e4d60c267ad0c
+1419	1510	7458336914502076	CMakeFiles/untitled1.dir/CXX.dd	6d27dde57c8ecc61
+1419	1510	7458336914502076	C:/Users/looey/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/CXXModules.json	6d27dde57c8ecc61
+1419	1510	7458336914502076	CMakeFiles/untitled1.dir/main.cpp.obj.modmap	6d27dde57c8ecc61
+1419	1510	7458336914502076	CMakeFiles/untitled1.dir/mrtdata.cpp.obj.modmap	6d27dde57c8ecc61
+1537	5613	7458336914808257	CMakeFiles/untitled1.dir/main.cpp.obj	15b356763a43139a
+1586	6048	7458336915298268	CMakeFiles/untitled1.dir/mrtdata.cpp.obj	42e5170862f9e31
+6048	6775	7458336959913469	untitled1.exe	dfce8758ca36d09e
